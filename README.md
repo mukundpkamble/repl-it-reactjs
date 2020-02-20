@@ -4,13 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Simply hit run once and start coding. Will hot reload the web view. 
 
-## Running Scripts for activity
+## Running Scripts for activity 1
 
 You can open a new shell window by hitting command+shift+S on macOS or control+shift+S (you can also access shortcuts from the `?` in the bottom right corner).
 
-When in the shell you can run any of the following scripts:
 
-### `yarn test`
+### `yarn test 1` 
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
@@ -25,7 +24,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### `yarn eject 2`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -41,7 +40,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Code Splitting 3
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
